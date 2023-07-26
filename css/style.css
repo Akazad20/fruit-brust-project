@@ -34,3 +34,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.underline{
+    background: #ddd;
+    height: 1px;
+    width: 226px;
+}
