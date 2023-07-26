@@ -9,3 +9,28 @@
 .navbar{
     border-radius:50px;
 }
+.background{
+    background-image: url(../images/banner1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.backgroun-2nd{
+    background-image: url(../images/banner2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-3{
+    background-image: url(../images/banner3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-4{
+    background-image: url(../images/banner4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
